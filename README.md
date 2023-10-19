@@ -2,12 +2,16 @@
 
 
 
+
 Identified spending patterns among different customer segments.
 Implemented fraud detection techniques to prevent and detect suspicious activities.
 Conducted customer segmentation to tailor products and services.
 Assessed creditworthiness and risk profiles of customers.
 Developed predictive models for future credit card usage and payment behaviors.
 These findings enable data-driven decisions to optimize offerings and mitigate risks.
+
+
+![27041820](https://github.com/Rohitrt8/Credit-Card-Analysis/assets/132551994/dc790436-f2a2-4a72-ab37-72b4892ac901)
 
 
 
