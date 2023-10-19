@@ -33,10 +33,22 @@ These findings enable data-driven decisions to optimize offerings and mitigate r
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+**Education Analysis for the Business need**
+
+![Indian-education-sector’s-evolution](https://github.com/Rohitrt8/Credit-Card-Analysis/assets/132551994/ed002d2c-dab7-4314-8059-95e5d26f8ea2)
+
+
+
   ![image](https://github.com/Rohitrt8/Credit-Card-Analysis/assets/132551994/a706486d-99f9-4cd2-a4bd-5fedf8be9d6b)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Analysis on House living Habits**
+
+
+
+![different-types-houses](https://github.com/Rohitrt8/Credit-Card-Analysis/assets/132551994/bf59844b-ff23-4432-a6e3-a44cb0ab2356)
 
 
 ![image](https://github.com/Rohitrt8/Credit-Card-Analysis/assets/132551994/84486c5b-ca4d-47c6-8bca-8175cd7b9660)
@@ -44,6 +56,24 @@ These findings enable data-driven decisions to optimize offerings and mitigate r
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+**Working Entities Analysis**
+
+
+
+![Business-Entity](https://github.com/Rohitrt8/Credit-Card-Analysis/assets/132551994/2b025537-9d64-44ff-bdaf-534b38d4fc3d)
+
+
+
+
+
+
+![image](https://github.com/Rohitrt8/Credit-Card-Analysis/assets/132551994/cec86a91-da6f-4b9d-82b9-0f5328b6540d)
+
+
+
 
 
 
