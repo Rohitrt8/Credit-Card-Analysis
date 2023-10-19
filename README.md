@@ -16,6 +16,16 @@ These findings enable data-driven decisions to optimize offerings and mitigate r
 
 
 
+
+
+**Creating Insights for Bussines Needs**
+
+
+
+
+
+![Top KPIs for Credit Card Business (1)](https://github.com/Rohitrt8/Credit-Card-Analysis/assets/132551994/7a1c3323-33b4-4f08-88f1-6ff4a0d889bb)
+
 ![image](https://github.com/Rohitrt8/Credit-Card-Analysis/assets/132551994/34309594-45fe-4689-8495-003ee8c605b0)
 
 
